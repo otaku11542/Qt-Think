@@ -27,4 +27,4 @@ fonts/drawchinese：实现中文放入功能（过长文字不可）
 
 cursor的无限运用方法
 
-[cursor](CursorSet.md)
+[cursor](Cursor/CursorSet.md)
