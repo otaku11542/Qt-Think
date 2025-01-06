@@ -1,4 +1,4 @@
-# QtC-
+# Qt-Think
 一些实验的想法 
 
 # Class
