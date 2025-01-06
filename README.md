@@ -23,7 +23,7 @@ Class/scalablegraphicsview：上面那个放到这个view里面以实现拖动�
 
 fonts/drawchinese：实现中文放入功能（过长文字不可）
 
-#Cursor
+# Cursor
 
 cursor的无限运用方法
 
