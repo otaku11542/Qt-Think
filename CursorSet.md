@@ -1,6 +1,7 @@
 找到这个配置项文件，看代码是在位置：
 
-C:\Users\{你电脑的用户名}\AppData\Roaming\Cursor\User\globalStorage\storage.json
+C:\Users\{your_name}\AppData\Roaming\Cursor\User\globalStorage\storage.json
+
 只要把“你电脑用户名”这修改下，就是这个路径了，大多数用户安装电脑都是用Administrator作为用户名，其他的视实际情况。
 
 以上是windows文件位置，mac和linux位置分对应以下位置：
