@@ -21,7 +21,7 @@ Class/scalablegraphicsview：上面那个放到这个view里面以实现拖动�
 
 # fonts
 
-fonts/drawchinese：实现中文放入功能（过长文字不可）
+fonts/drawchinese：实现OpenCV的中文放入功能（过长文字不可）
 
 # Cursor
 
