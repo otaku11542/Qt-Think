@@ -1,6 +1,6 @@
 # 去掉PaddleOCR C++的输出
 
-在下面五个文件的LoadModel函数的paddle_infer::Config config;后面添加config.DisableGlogInfo();，然后把函数最后面的DisableGlogInfo();去掉。这是log就没了，具体就是：
+在下面五个文件的LoadModel函数的paddle_infer::Config config;后面添加config.DisableGlogInfo();，然后把函数最后面的DisableGlogInfo();去掉。这时log就没了，具体就是：
 
 
 
