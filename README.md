@@ -28,3 +28,9 @@ fonts/drawchinese：实现OpenCV的中文放入功能（过长文字不可）
 cursor的无限运用方法
 
 [cursor](Cursor/CursorSet.md)
+
+# PaddleOCR
+
+删除paddle-inference的所有log日志
+
+[removelog](PaddleOCR/RemoveLog.md)
