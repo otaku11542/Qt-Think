@@ -1,3 +1,8 @@
+// 运行之前要把conda的python环境配置一下
+// python>=3.9
+// pip install fuzzywuzzy
+// pip install update
+//然后把下面地址改一下
 #include "py2fuzzycpp.h"
 Py2FuzzyCpp::Py2FuzzyCpp() {
     SetEnvironmentVariable(TEXT("PYTHONHOME"), TEXT("E:\\anaconda\\envs\\paddle_env"));
