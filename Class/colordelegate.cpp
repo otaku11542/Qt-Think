@@ -1,3 +1,7 @@
+// 例子：
+// 设置自定义model颜色
+// ColorDelegate *delegate = new ColorDelegate(ui->tableView);
+// ui->tableView->setItemDelegate(delegate);
 #include "colordelegate.h"
 
 ColorDelegate::ColorDelegate(QObject *parent)
