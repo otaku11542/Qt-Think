@@ -24,3 +24,7 @@ cursor的无限运用方法
 删除paddle-inference的所有log日志
 
 [removelog](PaddleOCR/RemoveLog.md)
+
+# 飞鸟云
+
+[实时更新的飞鸟云](https://github.com/feiniaoyun/)
